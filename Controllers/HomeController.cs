@@ -18,6 +18,14 @@ public class HomeController : Controller
         return View();
     }
 
+    public IActionResult SelectIndumentaria() {
+        return View();
+    }
+
+    public IActionResult GuardarIndumentaria (int Equipo, int Media, int Pantalon, int Remera) {
+        return View();
+    }
+
     public IActionResult Privacy()
     {
         return View();
