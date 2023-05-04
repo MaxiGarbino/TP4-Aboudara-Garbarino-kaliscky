@@ -8,23 +8,23 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\47433817\\.nuget\\packages\\": {},
+    "C:\\Users\\47701750\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\TP4-Aboudara-Garbarino-kaliscky\\TP4-Aboudara-Garbarino-Kalinscky\\TP4-Aboudara-Garbarino-Kalinscky.csproj",
+      "projectUniqueName": "Z:\\Programacion\\TP4-Aboudara-Garbarino-kaliscky\\TP4-Aboudara-Garbarino-Kalinscky.csproj",
       "projectName": "TP4-Aboudara-Garbarino-Kalinscky",
-      "projectPath": "Z:\\TP4-Aboudara-Garbarino-kaliscky\\TP4-Aboudara-Garbarino-Kalinscky\\TP4-Aboudara-Garbarino-Kalinscky.csproj",
-      "packagesPath": "C:\\Users\\47433817\\.nuget\\packages\\",
-      "outputPath": "Z:\\TP4-Aboudara-Garbarino-kaliscky\\TP4-Aboudara-Garbarino-Kalinscky\\obj\\",
+      "projectPath": "Z:\\Programacion\\TP4-Aboudara-Garbarino-kaliscky\\TP4-Aboudara-Garbarino-Kalinscky.csproj",
+      "packagesPath": "C:\\Users\\47701750\\.nuget\\packages\\",
+      "outputPath": "Z:\\Programacion\\TP4-Aboudara-Garbarino-kaliscky\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\47433817\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\47701750\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

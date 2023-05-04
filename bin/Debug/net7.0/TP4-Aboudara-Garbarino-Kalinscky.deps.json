@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TP4-Aboudara-Garbarino-Kalinscky/1.0.0": {
+        "runtime": {
+          "TP4-Aboudara-Garbarino-Kalinscky.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TP4-Aboudara-Garbarino-Kalinscky/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
