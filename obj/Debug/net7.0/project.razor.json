@@ -18650,13 +18650,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\47433817\\TP4-Aboudara-Garbarino-kaliscky\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FilePath": "c:\\Users\\47433817\\TP4-Aboudara-Garbarino-kaliscky\\Views\\Home\\SelectIndumentaria.cshtml",
+      "TargetPath": "Views\\Home\\SelectIndumentaria.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\47433817\\TP4-Aboudara-Garbarino-kaliscky\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\47433817\\TP4-Aboudara-Garbarino-kaliscky\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {

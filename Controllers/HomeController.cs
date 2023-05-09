@@ -19,6 +19,8 @@ public class HomeController : Controller
     }
 
     public IActionResult SelectIndumentaria() {
+        // Tengas que cargar los ViewBags con las listas de cosas
+        
         return View();
     }
 
