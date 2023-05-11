@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\47433817\\TP4-Aboudara-Garbarino-kaliscky\\TP4-Aboudara-Garbarino-Kalinscky.csproj",
+      "projectUniqueName": "C:\\TP4-Aboudara-Garbarino-kaliscky\\TP4-Aboudara-Garbarino-Kalinscky.csproj",
       "projectName": "TP4-Aboudara-Garbarino-Kalinscky",
-      "projectPath": "C:\\Users\\47433817\\TP4-Aboudara-Garbarino-kaliscky\\TP4-Aboudara-Garbarino-Kalinscky.csproj",
+      "projectPath": "C:\\TP4-Aboudara-Garbarino-kaliscky\\TP4-Aboudara-Garbarino-Kalinscky.csproj",
       "packagesPath": "C:\\Users\\47433817\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\47433817\\TP4-Aboudara-Garbarino-kaliscky\\obj\\",
+      "outputPath": "C:\\TP4-Aboudara-Garbarino-kaliscky\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
