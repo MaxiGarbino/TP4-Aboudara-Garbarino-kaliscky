@@ -23,8 +23,7 @@ body {
 }
 #Formulario{
   float: left;
-  height: 10%;
-  width: 10%;
+  border: 3px solid black;
 }
 button{
   border-radius: 5px 10px;
