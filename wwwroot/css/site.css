@@ -20,8 +20,11 @@ html {
 body {
   margin-bottom: 60px;
 }
-img{
+#Formulario{
   float: left;
-  height: 10%;
-  width: 10%;
+  border: 3px solid black;
+}
+img{
+  height: 9%;
+  width: 9%;
 }
