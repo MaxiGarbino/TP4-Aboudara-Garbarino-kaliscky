@@ -29,10 +29,8 @@ public class HomeController : Controller
     }
 
     public IActionResult GuardarIndumentaria (int Equipo, int Media, int Pantalon, int Remera) {
-        for (int i = 0; i < 4; i++)
-        {
-            
-        }
+        Indumentaria objetoIndumentaria = new Indumentaria(Equipos.ListaMedias[Media], Equipos.ListaPantalones[Pantalon], Equipos.ListaRemeras[Remera]);
+        Equipos.IngresarIndumentaria(Equipos.ListaEquipos[Equipo], objetoIndumentaria);
         return View();
     }
 
