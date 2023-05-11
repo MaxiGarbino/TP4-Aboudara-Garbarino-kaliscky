@@ -18655,11 +18655,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "z:\\prog_2023\\TP4\\TP4-Aboudara-Garbarino-kaliscky\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "z:\\prog_2023\\TP4\\TP4-Aboudara-Garbarino-kaliscky\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
