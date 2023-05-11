@@ -21,7 +21,7 @@ body {
   background-color: azure;
   margin-bottom: 60px;
 }
-img{
+#Formulario{
   float: left;
   height: 10%;
   width: 10%;
@@ -38,4 +38,9 @@ button:hover{
   background-color: e7e7e7;
   transform: scale(1.4);
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  border: 3px solid black;
+}
+img{
+  height: 9%;
+  width: 9%;
 }
